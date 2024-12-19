@@ -1,0 +1,30 @@
+/home/ssimopoul/OS2/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+-bash: cd: too many arguments
+-bash: cd: too many arguments
+  File: log
+  Size: 213       	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 410593      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1251/ssimopoul)   Gid: ( 1253/ssimopoul)
+Access: 2024-12-19 13:01:26.092324169 +0200
+Modify: 2024-12-19 13:01:07.116125709 +0200
+Change: 2024-12-19 13:01:07.116125709 +0200
+ Birth: -
+rm: cannot remove 'stelinaki': No such file or directory
+find: ‘.-name’: No such file or directory
+find: ‘.txt’: No such file or directory
+find: ‘.-name’: No such file or directory
+find: ‘*.txt’: No such file or directory
+./vasilis2.txt
+o vasilis einai kalo paidi!!!!
+o vasilis einai kalo paidi!!!!
+o vasilis einai kalo paidi!!!!
+o vasilis einai kalo paidi!!!!
+-bash: cd: too many arguments
